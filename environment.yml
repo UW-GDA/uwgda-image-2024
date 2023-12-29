@@ -1,4 +1,4 @@
-name: uwgda2023
+name: uwgda2024
 channels:
   - conda-forge
 dependencies:
