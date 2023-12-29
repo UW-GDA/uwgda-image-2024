@@ -9,7 +9,7 @@ on:
       - '.gitignore'
 
 env:
-  DOCKER_IMAGE: "uwgda/uwgda-image-2023"
+  DOCKER_IMAGE: "uwgda/uwgda-image-2024"
 
 jobs:
   build-image-and-push:
