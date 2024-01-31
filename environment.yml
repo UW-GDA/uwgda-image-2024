@@ -32,12 +32,15 @@ dependencies:
   - matplotlib-scalebar
   - nbgitpuller
   - numpy
+  - odc-stac
   - pandas
   - panel
   - parallel
   - pillow
   - pip
+  - planetary-computer
   - pyproj
+  - pystac
   - python
   - rasterio
   - rasterstats>=0.17.1
