@@ -39,6 +39,7 @@ dependencies:
   - pillow
   - pip
   - planetary-computer
+  - pyogrio
   - pyproj
   - pystac
   - python
